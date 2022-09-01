@@ -1,8 +1,34 @@
 body {
   background-color: black;
-}
+  }
 
 h1 {
-color: #7ab3fc;
-font-family: "Times New Roman", serif;
-}
+  color: white;
+  font-family: "Times New Roman", serif;
+  }
+
+h2 {
+  color: rgba(255, 255, 255, 0.735);
+  font-family: "Times New Roman", serif;
+  }
+
+h3 {
+  color: rgba(255, 255, 255, 0.735);
+  font-family: "Times New Roman", serif;
+  }
+
+p {
+  color: rgba(255, 255, 255, 0.735);
+  font-family: "Times New Roman", serif;
+  }
+
+li {
+  float: left;
+  }
+  
+a {
+  display: block;
+  padding: 8px;
+  color: rgba(255, 255, 255, 0.735);
+  font-family: "Times New Roman", serif;
+  }
