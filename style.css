@@ -1,3 +1,7 @@
-h1: {
-color: blue;
+body {
+  background-color: black;
+}
+
+h1 {
+color: #7ab3fc;
 }
